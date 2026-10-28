@@ -5,9 +5,9 @@ Tutte le modifiche rilevanti a questo progetto sono documentate in questo file.
 Il formato segue [Keep a Changelog](https://keepachangelog.com/it-IT/1.1.0/) e il progetto adotta il
 [Versionamento Semantico](https://semver.org/lang/it/).
 
-## Non rilasciato
+## [Non rilasciato]
 
-## 1.0.0 - 2026-10-28
+## [1.0.0] - 2026-10-28
 
 Prima versione numerata. Le modifiche sono descritte rispetto alla versione precedente, che non aveva un numero.
 
@@ -54,3 +54,6 @@ Prima versione numerata. Le modifiche sono descritte rispetto alla versione prec
   in silenzio. Ora segnala un errore.
 - **Uso senza connessione:** con `halt_on_errors = false` i metodi chiamati senza connessione causavano un
   `TypeError`. Ora restituiscono `false`.
+
+[Non rilasciato]: https://github.com/zeroviger/mcpDB_Pg/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/zeroviger/mcpDB_Pg/releases/tag/v1.0.0
