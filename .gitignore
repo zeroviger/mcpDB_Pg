@@ -1,0 +1,16 @@
+# Istruzioni locali di Claude Code (personali)
+CLAUDE.local.md
+
+# Variabili d'ambiente e credenziali
+.env
+
+# Dipendenze
+/vendor/
+/node_modules/
+
+# File di sistema e degli editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
